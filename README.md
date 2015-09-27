@@ -28,3 +28,4 @@ This is ~~not~~ a StrikeThough
 - [ ] this is unchecked
 
 :rabbit:
+:feelsgood:
