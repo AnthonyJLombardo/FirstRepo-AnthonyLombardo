@@ -18,7 +18,7 @@
 2. a Ordered
 3. list
 
-[Google](www.google.com)
+[Google](http://www.google.com)
 
 [Picture of my Dog](http://i.imgur.com/R8zkgbp.jpg)
 
